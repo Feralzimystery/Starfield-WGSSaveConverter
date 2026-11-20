@@ -150,3 +150,4 @@ No. Your Game Pass `wgs` folder is read-only and remains completely untouched.
 - [Stalker2-WGSSaveMigrator](../Stalker2-WGSSaveMigrator) — S.T.A.L.K.E.R. 2 Game Pass (`wgs`) ↔ Steam save migrator
 
 *Independent community project. Not affiliated with Bethesda Softworks, ZeniMax Media, Microsoft, Valve, or Steam.*
+ 
