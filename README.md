@@ -152,3 +152,4 @@ No. Your Game Pass `wgs` folder is read-only and remains completely untouched.
 *Independent community project. Not affiliated with Bethesda Softworks, ZeniMax Media, Microsoft, Valve, or Steam.*
  
  
+ 
